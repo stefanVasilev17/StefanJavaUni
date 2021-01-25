@@ -1,0 +1,2 @@
+Vehicle{typeOfVehicle=CISTERN, maxWeight=25000.0, licence='AAAAAA'}Vehicle{typeOfVehicle=CISTERN, maxWeight=19000.0, licence='A1999ВР'}
+

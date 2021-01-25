@@ -1,0 +1,6 @@
+#FileLock
+#Mon Jan 25 12:53:15 EET 2021
+server=192.168.100.13\:50369
+hostName=Stefan
+method=file
+id=177392d19770c741289bde5b23e996f03e01efb3f2c
